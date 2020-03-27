@@ -1,0 +1,17 @@
+body{
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+div > p{
+    border: 2px solid #fabada;
+}
+
+.importante{
+    font-weight: bold;
+}
+
+.importante{
+    color: red;
+}
